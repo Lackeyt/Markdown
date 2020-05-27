@@ -1,6 +1,6 @@
 #  _Blog_
 
-#### _HTML formatting practice for Epicodus, 5/26/2020_
+#### _Markdown practice for Epicodus, 5/26/2020_
 
 #### By _**Tyson Lackey**_
 
